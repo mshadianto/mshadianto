@@ -1,4 +1,4 @@
-# Assalamu'alaikum, I'm MS Hadianto 👋
+# Assalamu'alaikum Wr.Wb, I'm MS Hadianto 👋
 
 ### 🚀 AI-Powered Builder | Governance & Islamic Finance Technologist
 
