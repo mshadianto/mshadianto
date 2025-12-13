@@ -4,6 +4,8 @@
 
 I build production-ready AI applications by leveraging **curiosity + AI tools** — not traditional coding expertise. Every repo here is proof that domain expertise + AI collaboration can create real solutions.
 
+Curious ➡️ Coding ➡️ Deploy ➡️ Repeat. 🔄
+
 ---
 
 ## 🎯 What I Do
