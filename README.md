@@ -11,7 +11,7 @@ Curious ➡️ Coding ➡️ Deploy ➡️ Repeat. 🔄
 ## 🎯 What I Do
 
 ```
-🏛️ Komite Audit @ BPKH (Indonesia's Hajj Fund Management Agency)
+🏛️ Audit Committee @ BPKH (Indonesia's Hajj Fund Management Agency)
 🔍 GRC Expert - Governance, Risk & Compliance
 🤖 AI Application Builder - Turning complex problems into working solutions
 ```
@@ -55,7 +55,7 @@ This means:
 ## 📜 Credentials
 
 ```
-SE, Ak, M.M. | CACP® | CCFA® | QIA® | CA® | GRCP® | GRCA® | CGP®
+SE, Ak, M.M. | CACP® | CCFA® | QIA® | CA® | GRCP® | GRCA® | CGP® | Senior Lead Auditor ISO 370001 | Lead Auditor ISO 90001
 ```
 
 ---
