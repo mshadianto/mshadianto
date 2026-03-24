@@ -14,7 +14,7 @@ Curious ➡️ Coding ➡️ Deploy ➡️ Repeat. 🔄
 🏛️ Audit Committee @ BPKH (Indonesia's Hajj Fund Management Agency)
 🔍 GRC Expert - Governance, Risk & Compliance
 🤖 AI Application Builder - Turning complex problems into working solutions
-🏆 #1 Favikon Ranking - Compliance & Tech
+🏆 #1 Favikon Ranking - Compliance & Tech 2025
 ```
 
 ## 💡 My Approach
